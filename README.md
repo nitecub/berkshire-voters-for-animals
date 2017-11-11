@@ -1,3 +1,3 @@
 # berkshire-voters-for-animals
 this is my first try at a website • goals of the site are: to gain visibility in the community • be a source of education and information re: animal treatment and laws re: animals • to attract and retain volunteers • to help with efficiency in administrating the organization (bva)
-a bit about me: i'll be attending a six-month web development/ux/ui program soon and am looking forward to learning new stuff every day. my greatest challenge is to figure out how to practice coding with a cat curled up on my arm. i am open to collaborating on a hoodie design that accommodates this sort of thing.
+••• a bit about me: i'll be attending a six-month web development/ux/ui program soon and am looking forward to learning new stuff every day. my greatest challenge is to figure out how to practice coding with a cat curled up on my arm. i am open to collaborating on a hoodie design that accommodates this sort of thing.
